@@ -5,13 +5,17 @@
       "Contributor": "Couchbase",
       "Tags": [
         "Couchbase",
-        "jack"
+        "couchbase"
       ]
     },
     {
       "GithubOrg": "developerforce",
       "GithubRepo": "Force.com-Toolkit-for-NET",
-      "Contributor" : "Force.com"
+       "Contributor": "Force.com",
+       "Tags": [
+        "Force.com",
+        "developerforce"
+      ]
     },
     {
       "GithubOrg": "jbevain",
