@@ -2,7 +2,11 @@
     {
       "GithubOrg": "couchbase",
       "GithubRepo": "couchbase-lite-net",
-      "Contributor" : "Couchbase"
+      "Contributor": "Couchbase",
+      "Tags": [
+        "Couchbase",
+        "jack"
+      ]
     },
     {
       "GithubOrg": "developerforce",
