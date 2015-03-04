@@ -20,107 +20,188 @@
     {
       "GithubOrg": "jbevain",
       "GithubRepo": "cecil",
-      "Contributor" : "Jb Evain"
+      "Contributor": "Jb Evain",
+      "Tags": [
+        "Jb Evain",
+        "jbevain"
+      ]
     },
     {
       "GithubOrg": "mono",
       "GithubRepo": "mono",
       "Contributor" : "Mono Project",
       "Name": "System.Drawing",
-      "Url": "https://github.com/mono/mono/tree/master/mcs/class/System.Drawing"
+      "Url": "https://github.com/mono/mono/tree/master/mcs/class/System.Drawing",
+      "Tags": [
+        "Mono Project",
+        "mono"
+      ]
     },
     {
       "GithubOrg": "SignalR",
       "GithubRepo": "SignalR",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft",
+        "SignalR"
+      ]
     },
     {
       "GithubOrg": "Azure",
       "GithubRepo": "azure-sdk-for-net",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft",
+        "Azure"
+      ]
     },
     {
       "GithubOrg": "projectkudu",
       "GithubRepo": "kudu",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft",
+        "projectkudu"
+      ]
     },
     {
       "GithubOrg": "thinktecture",
       "GithubRepo": "Thinktecture.IdentityManager",
-      "Contributor" : "Thinktecture"
+      "Contributor": "Thinktecture",
+       "Tags": [
+        "Thinktecture",
+        "thinktecture"
+      ]
     },
     {
       "GithubOrg": "thinktecture",
       "GithubRepo": "Thinktecture.IdentityServer.v3",
-      "Contributor" : "Thinktecture"
+      "Contributor": "Thinktecture",
+       "Tags": [
+        "Thinktecture",
+        "thinktecture"
+      ]
     },
     {
       "GithubOrg": "jstedfast",
       "GithubRepo": "MailKit",
-      "Contributor" : "Xamarin"
+      "Contributor": "Xamarin",
+       "Tags": [
+        "Xamarin",
+        "jstedfast"
+      ]
     },
     {
       "GithubOrg": "jstedfast",
       "GithubRepo": "MimeKit",
-      "Contributor" : "Xamarin"
+      "Contributor": "Xamarin",
+       "Tags": [
+        "Xamarin",
+        "jstedfast"
+      ]
     },
     {
       "GithubOrg": "xamarin",
       "GithubRepo": "Xamarin.Auth",
-      "Contributor" : "Xamarin"
+      "Contributor": "Xamarin",
+       "Tags": [
+        "Xamarin",
+        "xamarin"
+      ]
     },
     {
       "GithubOrg": "xamarin",
       "GithubRepo": "Xamarin.Mobile",
-      "Contributor" : "Xamarin"
+      "Contributor": "Xamarin",
+       "Tags": [
+        "Xamarin",
+        "xamarin"
+      ]
     },
     {
       "GithubOrg": "umbraco",
       "GithubRepo": "Umbraco-CMS",
-      "Contributor" : "Umbraco"
+      "Contributor": "Umbraco",
+       "Tags": [
+        "umbraco",
+        "Umbraco"
+      ]
     },
     {
       "CodePlexProject": "http://aspnetwebstack.codeplex.com",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft"        
+      ]
     },
     {
       "CodePlexProject": "http://entityframework.codeplex.com",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft"        
+      ]
     },
     {
       "CodePlexProject": "https://netmf.codeplex.com",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft"        
+      ]
     },
     {
       "CodePlexProject": "https://nuget.codeplex.com",
-      "Contributor" : "NuGet"
+      "Contributor": "NuGet",
+       "Tags": [
+        "NuGet"        
+      ]
     },
     {
       "CodePlexProject": "https://orchard.codeplex.com",
-      "Contributor" : "Orchard"
+      "Contributor": "Orchard",
+       "Tags": [
+        "Orchard"        
+      ]
     },
     {
       "CodePlexProject": "http://hadoopsdk.codeplex.com",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft"        
+      ]
     },
     {
       "CodePlexProject": "https://ajaxcontroltoolkit.codeplex.com",
-      "Contributor" : "DevExpress"
+      "Contributor": "DevExpress",
+       "Tags": [
+        "DevExpress"        
+      ]
     },
     {
       "CodePlexProject": "http://mef.codeplex.com",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+      "Tags": [
+        "Microsoft"        
+      ]
     },
     {
       "CodePlexProject": "http://wpl.codeplex.com",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft"        
+      ]
     },
     {
       "CodePlexProject": "http://mvvmlight.codeplex.com",
-      "Contributor" : "Laurent Bugnion"
+      "Contributor": "Laurent Bugnion",
+       "Tags": [
+        "Laurent Bugnion"        
+      ]
     },
     {
       "CodePlexProject": "http://katanaproject.codeplex.com",
-      "Contributor" : "Microsoft"
+      "Contributor": "Microsoft",
+       "Tags": [
+        "Microsoft"        
+      ]
     }
 ]
